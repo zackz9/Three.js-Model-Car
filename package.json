@@ -2,7 +2,7 @@
   "name": "Threejs 3D Model Car",
   "version": "1.0.0",
   "description": "Three.js 3D Model Car",
-  "main": "index.js",
+  "main": "index.html",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "start": "npx parcel src/index.html",
