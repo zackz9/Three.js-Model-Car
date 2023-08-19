@@ -34246,6 +34246,6 @@ class RGBELoader extends (0, _three.DataTextureLoader) {
     }
 }
 
-},{"three":"ktPTu","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}]},["4FhkU","goJYj"], "goJYj", "parcelRequire9e37")
+},{"three":"ktPTu","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}]},["4FhkU","goJYj"], "goJYj", "parcelRequireb4c9")
 
 //# sourceMappingURL=index.64a4978e.js.map

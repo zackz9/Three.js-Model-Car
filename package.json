@@ -1,13 +1,13 @@
 {
-  "name": "Three.js 3D Model Car",
+  "name": "Threejs 3D Model Car",
   "version": "1.0.0",
   "description": "Three.js 3D Model Car",
   "main": "index.js",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "start": "npx parcel src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "parcel build"
-
+    "build": "parcel build index.html"
   },
   "keywords": [],
   "author": "Zackaria",
@@ -18,6 +18,7 @@
   "devDependencies": {
     "@parcel/config-default": "^2.9.3",
     "parcel": "^2.7.0",
+    "parcel-bundler": "^1.12.5",
     "parcel-reporter-static-files-copy": "^1.5.2"
   },
   "staticFiles": {
