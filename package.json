@@ -1,0 +1,24 @@
+{
+  "name": "Three.js 3D Model Car",
+  "version": "1.0.0",
+  "description": "Three.js 3D Model Car",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zackaria",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.151.3"
+  },
+  "devDependencies": {
+    "@parcel/config-default": "^2.9.3",
+    "parcel": "^2.7.0",
+    "parcel-reporter-static-files-copy": "^1.5.2"
+  },
+  "staticFiles": {
+    "staticOutPath": "assets"
+  }
+}
