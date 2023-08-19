@@ -2,12 +2,12 @@
   "name": "Threejs 3D Model Car",
   "version": "1.0.0",
   "description": "Three.js 3D Model Car",
-  "main": "index.html",
+  "main": "index.js",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "start": "npx parcel src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx -p parcel-bundler parcel build src/index.html"
+    "build": "parcel build index.html"
   },
   "keywords": [],
   "author": "Zackaria",
